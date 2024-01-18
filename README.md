@@ -1,4 +1,4 @@
-the default location of the configuration vin is /home/<your name>/.config/nvim/lua/custom/ just transfer these files to this path
+the default location of the configuration nvim is /home/<your_name>/.config/nvim/lua/custom/ just transfer these files to this path
 
 the first time you log in, the installation of packages will begin, if you can't install clang during installation, then try installing unzip on your computer first, it will help you unzip the packages you are installing
 
